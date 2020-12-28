@@ -6,7 +6,7 @@
 background-color: #3a3a3a;
 color: #e9e8e8;
 padding: 1rem;
-width: 100%;
+max-width: 100%;
 }
 
 .logo{
